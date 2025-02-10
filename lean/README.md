@@ -157,6 +157,7 @@ You can update the repository by typing `git pull`
 followed by `lake exe cache get` inside the `mathematics_in_lean` folder.
 (This assumes that you have not changed the contents of the `MIL` folder,
 which is why we suggested making a copy.)
+
 #### 🌏  Open in other Cloud IDES
 
 Click any of the buttons below to start a new development environment to demo or contribute to the codebase without having to install anything on your machine:
